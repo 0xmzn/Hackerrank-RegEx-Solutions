@@ -1,0 +1,1 @@
+$Regex_Pattern = '/^(tac(tactic|tac)*)$/'; //Do not delete '/'. Replace __________ with your regex.

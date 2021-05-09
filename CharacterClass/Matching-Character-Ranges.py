@@ -1,0 +1,1 @@
+Regex_Pattern = r'^[a-z][123456789][^a-z][^A-Z][A-Z]\s*'	# Do not delete 'r'.
